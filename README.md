@@ -1,13 +1,29 @@
-# Data Scientist
+# Data Scientist / Analyst Portfolio
 
-## Education
+## Projects
 
-### Work Experience
+### Crypto Modeling
 
-### Projects
+### Fourier Prediction for Stocks
+
+### LSTM prediction for Stocks
+
+### NLP Classification
+
+### Road Casualty Predicitons
+
+### Twitter Sentiment Analysis
+
+### SQL Database
+
+## Contributions to Projects
+
+### StyleGAN with fMRI imaging
+
+### Covidcast predicitons
 
 
 
 Portfolio Building in Progress!
 
-Will be Data Science Oriented.
+
