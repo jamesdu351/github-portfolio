@@ -24,6 +24,7 @@ Long Short Term Memory is a proven concept in data with time series data, and st
 ### Road Casualty Predicitons
 
 [Link](https://github.com/jamesdu351/Road-Casualty)
+
 A complete data analysis on Road casualties in the UK in 2021.
 Dataset is combined with geolocational data and potential indicators and correlations for certain severities of accidents can be seen.
 
@@ -49,6 +50,7 @@ An example database designed in SQL that would match potential tutors with respe
 ### Crypto Modeling
 
 [Link](https://github.com/jamesdu351/Crypto-Modeling)
+
 A code piece that produces an alpha based on user inputs.
 I was responsible for bugfixing the exec commands and testing functionality
 
@@ -56,6 +58,7 @@ I was responsible for bugfixing the exec commands and testing functionality
 ### StyleGAN with fMRI imaging
 
 [Link](https://github.com/ucsb-ds-capstone-2022/ucsb-ds-capstone-2022.github.io)
+
 Usage of Generative Adversarial Networks to map images seen during fMRI scans to the brain pattern shown on the scan.
 Interesting final results is the ability to 'create' an image based off off of fMRI scans alone.
 Since humans brain chemistry is very unique and complex, each image recreation has limited generalizaiton.
