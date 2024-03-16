@@ -4,7 +4,7 @@
 
 
 ### Fourier Prediction for Stocks
-Link: https://github.com/jamesdu351/Fourier-Prediction
+[Link](https://github.com/jamesdu351/Fourier-Prediction)
 
 
 ### LSTM prediction for Stocks
