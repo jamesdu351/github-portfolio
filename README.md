@@ -2,9 +2,10 @@
 
 ## Projects
 
-### Crypto Modeling
 
 ### Fourier Prediction for Stocks
+Link: https://github.com/jamesdu351/Fourier-Prediction
+
 
 ### LSTM prediction for Stocks
 
@@ -16,7 +17,11 @@
 
 ### SQL Database
 
+
+
 ## Contributions to Projects
+
+### Crypto Modeling
 
 ### StyleGAN with fMRI imaging
 
