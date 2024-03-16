@@ -20,17 +20,16 @@ Returns over a one month testing period were 7% with more potential optimization
 Proof of concept of an LSTM model being used for Stocks
 Long Short Term Memory is a proven concept in data with time series data, and stocks contain significant time series data.
 
-### NLP Classification
-[Link](https://github.com/jamesdu351/NLP-Classificaiton)
-
 
 ### Road Casualty Predicitons
+
 [Link](https://github.com/jamesdu351/Road-Casualty)
 A complete data analysis on Road casualties in the UK in 2021.
 Dataset is combined with geolocational data and potential indicators and correlations for certain severities of accidents can be seen.
 
 
 ### Twitter Sentiment Analysis
+
 [Link](https://github.com/jamesdu351/Twitter-sentiment-analysis)
 
 A kaggle dataset on tweets about the Russo-Ukrainian Conflict.
@@ -39,6 +38,7 @@ Overall tweet sentiment within the collected time period are mostly in support w
 
 
 ### SQL Database
+
 [Link](https://github.com/jamesdu351/Tutor-match)
 
 An example database designed in SQL that would match potential tutors with respective students. 
@@ -47,6 +47,7 @@ An example database designed in SQL that would match potential tutors with respe
 ## Contributions to Projects
 
 ### Crypto Modeling
+
 [Link](https://github.com/jamesdu351/Crypto-Modeling)
 A code piece that produces an alpha based on user inputs.
 I was responsible for bugfixing the exec commands and testing functionality
@@ -60,7 +61,11 @@ Since humans brain chemistry is very unique and complex, each image recreation h
 
 [Link](https://github.com/ucsb-ds-capstone-2022/ucsb-ds-capstone-2022.github.io)
 
+### NLP Classification
 
+[Link](https://github.com/jamesdu351/NLP-Classificaiton)
+
+Usage of various NLP techniques 
 
 ### Contact Me
 Email: jamesdu351@gmail.com
