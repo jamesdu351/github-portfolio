@@ -55,11 +55,10 @@ I was responsible for bugfixing the exec commands and testing functionality
 
 ### StyleGAN with fMRI imaging
 
+[Link](https://github.com/ucsb-ds-capstone-2022/ucsb-ds-capstone-2022.github.io)
 Usage of Generative Adversarial Networks to map images seen during fMRI scans to the brain pattern shown on the scan.
 Interesting final results is the ability to 'create' an image based off off of fMRI scans alone.
 Since humans brain chemistry is very unique and complex, each image recreation has limited generalizaiton.
-
-[Link](https://github.com/ucsb-ds-capstone-2022/ucsb-ds-capstone-2022.github.io)
 
 ### NLP Classification
 
@@ -67,7 +66,7 @@ Since humans brain chemistry is very unique and complex, each image recreation h
 
 Usage of various NLP techniques 
 
-### Contact Me
+## Contact Me
 Email: jamesdu351@gmail.com
 
 
