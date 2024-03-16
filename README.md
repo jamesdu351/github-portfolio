@@ -11,6 +11,7 @@
 [Link](https://github.com/jamesdu351/LSTM-Stocks)
 
 ### NLP Classification
+[Link](https://github.com/jamesdu351/NLP-Classificaiton)
 
 ### Road Casualty Predicitons
 [Link](https://github.com/jamesdu351/Road-Casualty)
