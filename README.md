@@ -8,15 +8,18 @@
 
 
 ### LSTM prediction for Stocks
+[Link](https://github.com/jamesdu351/LSTM-Stocks)
 
 ### NLP Classification
 
 ### Road Casualty Predicitons
+[Link](https://github.com/jamesdu351/Road-Casualty)
 
 ### Twitter Sentiment Analysis
+[Link](https://github.com/jamesdu351/Twitter-sentiment-analysis)
 
 ### SQL Database
-
+[Link](https://github.com/jamesdu351/Tutor-match)
 
 
 ## Contributions to Projects
