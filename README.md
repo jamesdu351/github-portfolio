@@ -67,7 +67,8 @@ Since humans brain chemistry is very unique and complex, each image recreation h
 
 [Link](https://github.com/jamesdu351/NLP-Classificaiton)
 
-Usage of various NLP techniques 
+Heavily preprocess stopwords and punctuation to extract the core information from various sentences.
+Balance datasets by sentiment and create various features to classify the texts on.
 
 ## Contact Me
 Email: jamesdu351@gmail.com
